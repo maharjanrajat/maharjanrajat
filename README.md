@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I’m an enthusiastic AI/ML engineering student with a deep interest in leveraging data to create intelligent solutions. I’m currently honing my skills in machine learning algorithms, data analysis, and software engineering, and I'm always eager to take on new challenges in the tech world.<br><br>🌱 What I'm Learning:<br><br>-> Machine Learning & Deep Learning<br>-> Data Structures & Algorithms<br>-> Python, TensorFlow, and PyTorch<br>-> Natural Language Processing (NLP) & Computer Vision
+👋 Hi there! I’m an enthusiastic data science student with a deep interest in leveraging data to create intelligent solutions. I’m currently honing my skills in machine learning algorithms, data analysis, and software engineering, and I'm always eager to take on new challenges in the tech world.<br><br>🌱 What I'm Learning:<br><br>-> Data Analysis<br>-> Machine Learning & Deep Learning<br>-> Data Structures & Algorithms<br>-> Python, Pandas/Numpy, TensorFlow, and PyTorch<br>-> Natural Language Processing (NLP) & Computer Vision
 
 
 
